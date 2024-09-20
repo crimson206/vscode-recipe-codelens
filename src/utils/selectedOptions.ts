@@ -1,0 +1,1 @@
+export const selectedOptions = new Map<string, string>();
